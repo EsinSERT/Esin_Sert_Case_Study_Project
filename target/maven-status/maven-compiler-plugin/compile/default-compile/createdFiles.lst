@@ -1,0 +1,6 @@
+com\insider\qa\pages\LeverPage.class
+com\insider\qa\pages\BasePage.class
+com\insider\qa\pages\CareersPage.class
+com\insider\qa\pages\HomePage.class
+com\insider\qa\pages\QaJobsPage.class
+org\example\Main.class

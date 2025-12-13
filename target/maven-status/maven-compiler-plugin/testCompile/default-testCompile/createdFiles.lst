@@ -1,0 +1,3 @@
+com\insider\qa\tests\BaseTest.class
+com\insider\qa\tests\InsiderUiTest.class
+com\insider\qa\tests\TestListener.class

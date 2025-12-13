@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Insider QA Suite" parallel="false">
+    <parameter name="browser" value="chrome"/>
+    <test name="UI Tests">
+        <classes>
+            <class name="com.insider.qa.tests.InsiderUiTest"/>
+        </classes>
+    </test>
+</suite>
